@@ -1,4 +1,7 @@
 #Rule Engine Application
+
+
+
 The Rule Engine Application is a Spring Boot-based system that dynamically evaluates user eligibility based on customizable rules using an Abstract Syntax Tree (AST). Users can create, combine, and evaluate rules with attributes like age, department, income, and spending. The application supports dynamic rule management through APIs and validates inputs to ensure accuracy.
 
 Table of Contents
